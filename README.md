@@ -1,7 +1,7 @@
 # Debate_Club
 Uses the CrewAI model to have a debate regarding a topic!
 
-Check out this demo video: [Click here :3](https://www.youtube.com/watch?v=yR-J1NCqteM](https://youtu.be/0w4Wq9--fXc)
+Check out this demo video: [Click here :3](https://youtu.be/0w4Wq9--fXc)
 
 Requirements: 
 - API Key for a LLM (I used OpenAI for my example)
