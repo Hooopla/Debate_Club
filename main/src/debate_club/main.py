@@ -18,7 +18,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'motion': 'What sounds cooler Lancer Ralliart or a Lancer Evolution. (JUST THE NAME NOT PERFORMANCE)',
+        'motion': 'Why does Stuart Skinner in NHL Suck',
     }
 
     try:
